@@ -106,6 +106,20 @@ src/main/resources
 Dockerfile
 README.md
 
+
+
+docs/
+   h2-screenshot.png
+   postman-screenshot.png
+
+
+
+   <img width="1045" height="905" alt="Screenshot 2025-11-17 103914" src="https://github.com/user-attachments/assets/64fc9ae3-5b8c-4967-ab65-9fbee1d69982" />
+   <img width="1884" height="1005" alt="Screenshot 2025-11-17 103645" src="https://github.com/user-attachments/assets/9b5ac07d-d4f7-4f4e-b96f-f78fd13c2866" />
+
+
+
+
 ▶️ Run Locally
 1. Run using Maven
 mvn spring-boot:run
