@@ -157,5 +157,5 @@ Add authentication (JWT)
 
 Vaibhavi Gothe
 Backend Developer | Java | SQL | REST APIs
-GitHub: your link
-LinkedIn: your link
+GitHub: https://github.com/v72107237-lgtm/secureapi/tree/main
+LinkedIn: https://www.linkedin.com/in/vaibhavi-gothe-24a5b3212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
